@@ -21,6 +21,7 @@ Following step should be follow in order to get the app running
 	
 ## HERE'S HOW OUR FRONTEND LOOKS LIKE:
 
-![Flight-Fare-Genie](https://raw.githubusercontent.com/ama-ku/Telecom-Customer-Churn/main/images/frontend.JPG)
+![Flight-Fare-Genie](https://github.com/aman-ku/Flight-Fare-Genie/blob/309f2c941e20d4b88869e546e2f9e77d01db4e28/images/Screenshot%20from%202021-06-28%2022-55-57.png)
+![Flight-Fare-Genie](https://github.com/aman-ku/Flight-Fare-Genie/blob/309f2c941e20d4b88869e546e2f9e77d01db4e28/images/Screenshot%20from%202021-06-28%2022-55-57.png)
 
 
